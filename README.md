@@ -4,8 +4,7 @@
 
 **A calm digital space where minimalist aesthetics meet high-performance code.**
 
-[![Portfolio](https://img.shields.io/badge/-View_Portfolio-121016?style=for-the-badge&logo=Web&logoColor=dcb8ff&edge_radius=10)](https://your-portfolio-link.com) 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-121016?style=for-the-badge&logo=linkedin&logoColor=dcb8ff)](https://linkedin.com/in/yourlink)
+[![Portfolio](https://malikali065.github.io/portfolio) 
 
 <br>
 </div>
